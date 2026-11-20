@@ -17,7 +17,7 @@ Graduando em **Engenharia de Controle e Automação** na **Universidade Federal 
 ### 🤖 Atuação & Projetos Principais
 
 * **Equipe de Robótica Taura Bots (UFSM):** Atuação em sistemas embarcados, controle e mecânica para robótica competitiva (CBR/RoboCup), incluindo integração de hardware na categoria **SSL** e montagem/calibração de robô humanoide (20 GDL).
-* **Bolsista de Extensão – Projeto Rede SACCI (UFSM):** Desenvolvimento de protótipos e oficinas práticas de robótica e sistemas embarcados com Arduino e sensores.
+* **Projeto Rede SACCI (UFSM):** Desenvolvimento de protótipos e oficinas práticas de robótica e sistemas embarcados com Arduino e sensores.
 * **Projetos Acadêmicos:** Arquitetura de controle em ROS2 para manipulador robótico multi-eixos, robô móvel autônomo e pipelines de processamento de dados/embeddings em Python.
 
 ---
